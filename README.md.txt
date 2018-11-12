@@ -1,0 +1,1 @@
+#Não conegui terminar o desafio, o problema maior foipara conseguir uma forma de receber o corpo da requisição. Parei na parte na ual seria ncessario o obeto receber uma lista ao invez de uma resquisição apenas
